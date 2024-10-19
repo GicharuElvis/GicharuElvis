@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi i'm Elvis
+A Data / Cloud Engineer sharing about my learnings and journey in tech . </br>
+🔭I write blogs about [Cloud](https://www.linkedin.com/in/elvis-gicharu/) on my LinkedIn and [medium](https://medium.com/@gicharuelvis) .</br>
+👯 I’m looking to collaborate on Open Source projects. </br>
+🌱 I’m currently learning Big Data : Hadoop, Apache, Snowflake and moree.... it's exciting! </br>
+📫 How to reach me: [Twitter](https://x.com/ElvisGicharu1) , [Linkedin](https://www.linkedin.com/in/elvis-gicharu/) feel free </br>
+
+<!-- Github stats -->
+[![Gicharu'sGitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GicharuElvis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GicharuElvis/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GicharuElvis&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/GicharuElvis/github-readme-stats#gh-light-mode-only)
 
 <!--
 **GicharuElvis/GicharuElvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
