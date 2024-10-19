@@ -1,8 +1,10 @@
 # 💫 About Me:
 ### Hi i'm Elvis<br>A Data / Cloud Engineer sharing about my learnings and journey in tech . </br>
 <br>🔭I write blogs about [Cloud](https://www.linkedin.com/in/elvis-gicharu/) on my LinkedIn and [medium](https://medium.com/@gicharuelvis) .</br>
-<br>👯 I’m looking to collaborate on Open Source projects. </br><br>🌱 I’m currently learning Big Data : Hadoop, Apache, Snowflake and moree.... it's exciting! </br>
-<br>📫 How to reach me: [Twitter](https://x.com/ElvisGicharu1) , [Linkedin](https://www.linkedin.com/in/elvis-gicharu/) feel free </br>
+<br>👯 I’m looking to collaborate on Open Source projects and more... </br>
+<br>🌱 I’m currently learning Big Data : Hadoop, Apache, Snowflake and moree.... it's exciting! </br>
+<br>📫 How to reach me: [Twitter](https://x.com/ElvisGicharu1) , [Linkedin](https://www.linkedin.com/in/elvis-gicharu/) feel free!! </br>
+
 <br><br><!-- Github stats --><br>[![Gicharu'sGitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GicharuElvis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GicharuElvis/github-readme-stats#gh-dark-mode-only)<br>[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GicharuElvis&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/GicharuElvis/github-readme-stats#gh-light-mode-only)<br>
 
 
